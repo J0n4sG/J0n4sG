@@ -1,3 +1,5 @@
+<img src="1.png" alt="Top" width="100%" />
+
 # 💫 About Me:
 🔭 I’m currently working on an interactive website about me<br>🌱 I’m currently learning front-end development
 
@@ -16,3 +18,5 @@
 [![](https://visitcount.itsvg.in/api?id=Jonas1102&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<img src="2.png" alt="Bottom" width="100%" />
